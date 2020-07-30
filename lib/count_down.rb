@@ -1,4 +1,5 @@
 # Write your code here
-while true do
-  puts ("You can't stop me huh?")
+count = 0
+while count < 3 do
+  puts "#{count} ah ah ah"
 end
